@@ -11,3 +11,4 @@ function srsr(){
 	}
 }
 srsr()
+prompt("Сколько вам лет?")
